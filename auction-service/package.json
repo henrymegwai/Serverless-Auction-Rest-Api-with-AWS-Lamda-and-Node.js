@@ -1,7 +1,7 @@
 {
   "name": "auction-service",
   "version": "1.0.0",
-  "description": "Building Auction Microservice Service",
+  "description": "Building AWS Lamda Auction Rest Api Microservice Service",
   "author": "Henry Megwai",
   "license": "MIT",
   "devDependencies": {
